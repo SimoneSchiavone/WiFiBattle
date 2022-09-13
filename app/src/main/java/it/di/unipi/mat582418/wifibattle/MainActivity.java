@@ -197,28 +197,10 @@ public class MainActivity extends Activity {
 
         //Se non è mai stato impostato un username allora chiedi all'utente di impostarlo tramite dialog
         if (preferences.getString("username", null) == null) {
-            Log.d("GG","OH");
-            boolean account_found=false;
-            AccountManager am=AccountManager.get(this);
-            Account[] accounts=am.getAccounts();
-            int count=accounts.length;
-            Log.d("GG",count+"");
-            Account account=null;
-            for (int i=0; i < count; i++) {
-                account=accounts[i];
-                Log.d("GG",account.toString());
-                if (account.type.equals("com.google")) {
-                    PreferenceManager.getDefaultSharedPreferences(this).edit().putString("username",account.name).commit();
-                    account_found=true;
-                    break;
-                }
-            }
-            if(!account_found){
-                Toast.makeText(getApplicationContext(), getString(R.string.no_username), Toast.LENGTH_SHORT).show();
-                UsernameDialogFragment udf = new UsernameDialogFragment();
-                udf.setCancelable(false);
-                udf.show(getFragmentManager(), UsernameDialogFragment.TAG);
-            }
+            Toast.makeText(getApplicationContext(), getString(R.string.no_username), Toast.LENGTH_SHORT).show();
+            UsernameDialogFragment udf = new UsernameDialogFragment();
+            udf.setCancelable(false);
+            udf.show(getFragmentManager(), UsernameDialogFragment.TAG);
         } else {
             username_tv.setText(PreferenceManager.getDefaultSharedPreferences(getApplicationContext()).getString("username", "NO"));
         }
