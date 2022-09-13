@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="@string/gen_sett">
+        <SwitchPreference
+            android:defaultValue="true"
+            android:key="audio"
+            android:summary="@string/audio_enabled"
+            android:icon="@mipmap/speaker_icon" />
+        <Preference
+            android:summary="@string/more"
+            android:key="more"
+            android:icon="@mipmap/info_icon">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://classroom.google.com/u/6/c/Mzg4MzM4NjcyMzQz?pli=1"/>
+        </Preference>
+    </PreferenceCategory>
+
+
+    <PreferenceCategory
+        android:title="@string/game_sett">
+        <EditTextPreference
+            android:key="username"
+            android:summary="@string/username_change"
+            android:icon="@mipmap/user_icon"/>
+
+        <Preference
+            android:summary="@string/select_picture"
+            android:key="picture"
+            android:icon="@mipmap/photo_selection">
+        </Preference>
+
+        <Preference
+            android:summary="@string/delete_picture"
+            android:key="delete_picture"
+            android:selectable="true"
+            android:icon="@mipmap/bin">
+        </Preference>
+
+        <Preference
+            android:summary="@string/take_picture"
+            android:key="take_picture"
+            android:icon="@mipmap/camera_icon">
+        </Preference>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

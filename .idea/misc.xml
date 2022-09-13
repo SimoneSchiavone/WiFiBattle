@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/drawable/all_records.xml" value="0.2203125" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/drawable/archive_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/drawable/bin_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/drawable/borders.xml" value="0.2203125" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/drawable/build_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/drawable/camera_icon_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/drawable/connect_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/drawable/custom_border.xml" value="0.2203125" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/drawable/decreasing.xml" value="0.2203125" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/drawable/defeat.xml" value="0.2203125" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/drawable/enemy_borders.xml" value="0.1" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/drawable/enemy_sea_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/drawable/increasing.xml" value="0.2203125" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/drawable/info_icon_foreground.xml" value="0.1125" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/drawable/my_sea_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/drawable/photo_selection_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/drawable/settings_icon.xml" value="0.16979166666666667" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/drawable/settings_icon_foreground.xml" value="0.1125" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/drawable/speaker_icon_foreground.xml" value="0.1125" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/drawable/tie.xml" value="0.2203125" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/drawable/user_icon_foreground.xml" value="0.1125" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/drawable/win.xml" value="0.2203125" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/layout-land/main_activity.xml" value="0.25" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/layout-land/pregame_activity.xml" value="0.22" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/layout-port/main_activity.xml" value="0.1" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/layout/connection_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/layout/device_info.xml" value="0.18" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/layout/fragment_first.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/layout/game_table.xml" value="0.22" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/layout/history_activity.xml" value="0.25" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/layout/history_activity1.xml" value="0.5" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/layout/main_activity.xml" value="0.25" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/layout/match_detail.xml" value="0.22" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/layout/pregame_activity.xml" value="0.25" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/layout/spinner_test.xml" value="0.22" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/layout/table_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/layout/test.xml" value="0.25" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/layout/username_dialog.xml" value="0.22" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/menu/game_mode.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/menu/menu_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/mipmap-anydpi-v26/appicon.xml" value="0.2203125" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/mipmap-anydpi-v26/appicon_round.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/mipmap-anydpi-v26/archive.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/mipmap-anydpi-v26/archive_round.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/mipmap-anydpi-v26/bin.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/mipmap-anydpi-v26/bin_round.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/mipmap-anydpi-v26/build.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/mipmap-anydpi-v26/build_round.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/mipmap-anydpi-v26/camera_icon.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/mipmap-anydpi-v26/camera_icon_round.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/mipmap-anydpi-v26/connect.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/mipmap-anydpi-v26/connect_round.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2203125" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/mipmap-anydpi-v26/info_icon.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/mipmap-anydpi-v26/info_icon_round.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/mipmap-anydpi-v26/photo_selection.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/mipmap-anydpi-v26/photo_selection_round.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/mipmap-anydpi-v26/settings_icon.xml" value="0.11354166666666667" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/mipmap-anydpi-v26/settings_icon_round.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/mipmap-anydpi-v26/speaker_icon.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/mipmap-anydpi-v26/speaker_icon_round.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/mipmap-anydpi-v26/swords.xml" value="0.2203125" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/mipmap-anydpi-v26/user_icon.xml" value="0.1125" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/mipmap-anydpi-v26/user_icon_round.xml" value="0.2203125" />
+        <entry key="..\:/Users/simon/AndroidStudioProjects/WiFiBattle/app/src/main/res/xml/preferences.xml" value="0.19927536231884058" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
